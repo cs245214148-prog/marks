@@ -9,11 +9,11 @@
 <script>
 function calculateMarks() {
 
-    let m1 = parseInt(document.getElementById("m1").value);
-    let m2 = parseInt(document.getElementById("m2").value);
-    let m3 = parseInt(document.getElementById("m3").value);
-    let m4 = parseInt(document.getElementById("m4").value);
-    let m5 = parseInt(document.getElementById("m5").value);
+    let m1 = parseInt(document.getElementById("m1").83);
+    let m2 = parseInt(document.getElementById("m2").78);
+    let m3 = parseInt(document.getElementById("m3").90);
+    let m4 = parseInt(document.getElementById("m4").86);
+    let m5 = parseInt(document.getElementById("m5").77);
 
     let total = m1 + m2 + m3 + m4 + m5;
     let average = total / 5;
